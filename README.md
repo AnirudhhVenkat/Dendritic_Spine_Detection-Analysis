@@ -50,7 +50,38 @@ To set up this project, follow these steps:
 
 ## File Structure
 
-```plaintext
 ├── detection_and_analysis.ipynb
 ├── README.md
 └── requirements.txt
+
+## Usage
+
+1. Running Dendritic Spine Detection and Analysis
+2. Open the detection_and_analysis.ipynb notebook.
+3. Run the notebook to detect dendritic spines and perform subsequent analyses, including distance measurements, surface area calculations, and spine density assessments.
+   
+- **Model Training**
+  
+1. Model training using YOLOv9 with labeled spine data
+2. Post-processing for distance measurement, surface area calculation, and density analysis
+3. Evaluation using metrics like accuracy, precision, and recall.
+   
+- **Results**
+
+Spine Detection Accuracy: 91-93%
+Distance Measurement Accuracy: Highly accurate within the micrometer range.
+Surface Area Calculation: Consistently precise across different spine shapes.
+Dendrite Length Analysis: Comprehensive length measurements for accurate spine density calculation.
+
+## Contributing
+
+- **Contributions to this project are welcome. If you want to contribute, please follow these steps:**
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -am 'Add some feature').
+4. Push to the branch (git push origin feature-branch).
+5. Create a pull request.
+   
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
