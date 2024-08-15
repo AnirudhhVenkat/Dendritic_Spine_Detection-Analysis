@@ -1,4 +1,4 @@
-#Dendritic_Spine_Detection-Analysis
+# Dendritic_Spine_Detection-Analysis
 A machine learning approach to detecting and analyzing dendritic spines.
 
 This project leverages a Convolutional Neural Network (YOLOv9) to accurately detect dendritic spines in microscopy images. After detection, a custom algorithm is used to measure the distance from each spine to its corresponding dendrite segment, label the distances, and calculate the surface area of each spine. Additionally, the project includes computations for the length of each dendrite and determines the density of spines per millimeter.
