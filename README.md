@@ -51,7 +51,6 @@ To set up this project, follow these steps:
 ## File Structure
 
 ```plaintext
-├── notebooks/
-│   ├── detection_and_analysis.ipynb
+├── detection_and_analysis.ipynb
 ├── README.md
 └── requirements.txt
