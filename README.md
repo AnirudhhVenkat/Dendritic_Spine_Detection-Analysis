@@ -50,10 +50,7 @@ To set up this project, follow these steps:
 
 ## File Structure
 
-``plaintext
-├── detection_and_analysis.ipynb
-├── README.md
-└── requirements.txt
+detection_and_analysis.ipynb   README.md   result.png
 
 ## Usage
 
@@ -69,10 +66,10 @@ To set up this project, follow these steps:
    
 **Results**
 
-Spine Detection Accuracy: 91-93%
-Distance Measurement Accuracy: Highly accurate within the micrometer range.
-Surface Area Calculation: Consistently precise across different spine shapes.
-Dendrite Length Analysis: Comprehensive length measurements for accurate spine density calculation.
+1. Spine Detection Accuracy: 91-93%
+2. Distance Measurement Accuracy: Highly accurate within the micrometer range.
+3. Surface Area Calculation: Consistently precise across different spine shapes.
+4. Dendrite Length Analysis: Comprehensive length measurements for accurate spine density calculation.
 
 ## Contributing
 
