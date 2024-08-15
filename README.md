@@ -41,12 +41,7 @@ To set up this project, follow these steps:
     cd Dendritic_Spine_Detection-Analysis
     ```
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Install Jupyter notebook or VS Code with the Jupyter extension.
+2. Install Jupyter notebook or VS Code with the Jupyter extension.
 
 ## File Structure
 
