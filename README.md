@@ -50,7 +50,7 @@ To set up this project, follow these steps:
 
 ## File Structure
 
-```plaintext
+``plaintext
 ├── detection_and_analysis.ipynb
 ├── README.md
 └── requirements.txt
