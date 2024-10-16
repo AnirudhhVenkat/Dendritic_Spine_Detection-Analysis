@@ -37,7 +37,7 @@ To set up this project, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YourUsername/Dendritic_Spine_Detection-Analysis.git
+    git clone https://github.com/AnirudhhVenkat/Dendritic_Spine_Detection-Analysis.git
     cd Dendritic_Spine_Detection-Analysis
     ```
 
